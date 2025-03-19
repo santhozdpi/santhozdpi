@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @santhosh Thangavel
-- 👀 I’m interested in Marketing
-- 🌱 I’m currently learning MBA Marketing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-santhozdpi/santhozdpi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Santhosh Thangavel
+- 👀 I’m interested in Digital Marketing, Data Analytics, Software Testing, and Brand Management  
+- 🌱 I’m currently learning Python, SEO, Advanced Google Ads, Brand Management, and B2B/B2C Marketing  
+- 💞️ I’m looking to collaborate on Digital Marketing projects, Email Marketing campaigns, Data Analytics tasks, and Brand Strategy  
+- 📫 How to reach me:  
+  - LinkedIn: [Santhosh Thangavel](www.linkedin.com/in/santhosh-96x)  
+  - Email: [santhozdpi@gmail.com]  
